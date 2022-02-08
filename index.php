@@ -1,5 +1,14 @@
-<h1>jQuery AJAX Critters</h1>
+<html>
+  <head>
+    <title>jQuery AJAX Critters</title>
+  </head>
+  <body>
+      <h1>jQuery AJAX Critters</h1>
 
-<p>New stuff</p>
+      <p>Below are links to jQuery AJAX examples</p>
 
-<p>Stuff added from repo</p>
+      <p><a href="ja_load.html" target="_blank">ja_load.html</a></p>
+      <p><a href="ja_get.html" target="_blank">ja_get.html</a></p>
+      <p><a href="ja_post.html" target="_blank">ja_post.html</a></p>
+  </body>
+</html>
